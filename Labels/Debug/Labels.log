@@ -1,0 +1,37 @@
+﻿Build started 10/31/2015 5:17:43 AM.
+     1>Project "C:\Users\Seth\Documents\Visual Studio 2015\Projects\Labels\Labels\Labels.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\Facades\\" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Labels.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Labels.cpp MyForm.cpp
+     1>cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+         Labels.cpp
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\MyForm.h(1786): warning C4101: 'e': unreferenced local variable
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\MyForm.h(1805): warning C4101: 'e': unreferenced local variable
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\MyForm.h(1824): warning C4101: 'e': unreferenced local variable
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\MyForm.h(1842): warning C4101: 'e': unreferenced local variable
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\Form1.h(1856): warning C4101: 'e': unreferenced local variable
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\Form1.h(1879): warning C4101: 'e': unreferenced local variable
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\Form1.h(1902): warning C4101: 'e': unreferenced local variable
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\Form1.h(1924): warning C4101: 'e': unreferenced local variable
+         MyForm.cpp
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\MyForm.h(1786): warning C4101: 'e': unreferenced local variable
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\MyForm.h(1805): warning C4101: 'e': unreferenced local variable
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\MyForm.h(1824): warning C4101: 'e': unreferenced local variable
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\MyForm.h(1842): warning C4101: 'e': unreferenced local variable
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\Form1.h(1856): warning C4101: 'e': unreferenced local variable
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\Form1.h(1879): warning C4101: 'e': unreferenced local variable
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\Form1.h(1902): warning C4101: 'e': unreferenced local variable
+     1>c:\users\seth\documents\visual studio 2015\projects\labels\labels\Form1.h(1924): warning C4101: 'e': unreferenced local variable
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Seth\Documents\Visual Studio 2015\Projects\Labels\Debug\Labels.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Labels.Form1.resources /ASSEMBLYRESOURCE:Debug\Labels.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Seth\Documents\Visual Studio 2015\Projects\Labels\Debug\Labels.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Labels.obj
+         Debug\MyForm.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.6.AssemblyAttributes.obj"
+         Labels.vcxproj -> C:\Users\Seth\Documents\Visual Studio 2015\Projects\Labels\Debug\Labels.exe
+     1>Done Building Project "C:\Users\Seth\Documents\Visual Studio 2015\Projects\Labels\Labels\Labels.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.80
